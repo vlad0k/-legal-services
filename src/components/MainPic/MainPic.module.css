@@ -1,0 +1,69 @@
+.MainPic {
+  color: white;
+  position: relative;
+  font-size: 28px;
+}
+
+.head {
+  margin: 4px 0;
+}
+
+.MainPic img {
+  width: 100%;
+  height: 600px;
+}
+
+.askButton {
+  margin-top: 28px;
+  color: white;
+  font-size: 28px;
+  background-color: rgba(0,0,0,0);
+  outline: none;
+  border: 4px solid white;
+  border-radius: 10px;
+}
+
+.textBlock {
+  position: absolute;
+  display: grid;
+  align-content: center;
+  top:0;
+  width: 100%;
+  height: 100%;
+  color: white;
+  background-color: rgba(129, 199, 132, 0.3);
+  padding: 50% auto ;
+}
+
+.contacts {
+  text-align: left;
+  color: #9ccc65;
+}
+
+.contactsHeader {
+  font-size: 32px;
+  margin: 10px 0;
+}
+
+.contactsElements{
+  font-weight: bold;
+  font-size: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactsMobile {
+  display: flex;
+  align-items: center;
+}
+
+.socialLogo {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+}
+
+.contactsMobile {
+  display: flex;
+}

@@ -1,0 +1,13 @@
+.AboutUs {
+  text-align: left;
+  color: #9ccc65;
+  padding: 8px
+}
+
+.AboutUsHeader {
+  font-size: 32px;
+}
+
+.AboutUsText {
+  font-size: 28px;
+}

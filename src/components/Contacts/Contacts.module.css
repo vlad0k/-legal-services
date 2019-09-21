@@ -1,0 +1,32 @@
+.contacts {
+  text-align: left;
+  color: #9ccc65;
+}
+
+.contactsHeader {
+  font-size: 32px;
+  margin: 10px 0;
+}
+
+.contactsElements{
+  font-weight: bold;
+  font-size: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contactsMobile {
+  display: flex;
+  align-items: center;
+}
+
+.socialLogo {
+  width: 32px;
+  height: 32px;
+  margin-right: 8px;
+}
+
+.contactsMobile {
+  display: flex;
+}
